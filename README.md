@@ -3,7 +3,7 @@ Scrapping de los datos de libros de la libreria "La casa de los libros".
 
 # :notebook: Urbanismo Literature Scraper
 
-## Descripción
+## 1. Descripción
 Urbanismo Literature Scraper es una herramienta profesional de web scraping diseñada específicamente para recopilar y analizar información sobre libros y revistas relacionados **con urbanismo y transporte** de las principales **librerías online españolas**. La herramienta utiliza técnicas avanzadas de scraping respetuoso y procesamiento inteligente para identificar y extraer contenido relevante.
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
@@ -11,7 +11,7 @@ Urbanismo Literature Scraper es una herramienta profesional de web scraping dise
 ![Requests](https://img.shields.io/badge/requests-2.25+-yellow.svg)
 ![Pandas](https://img.shields.io/badge/pandas-1.2+-red.svg)
 
-## 🌟 Características Principales
+##  1.1 :ballot_box_with_check: Características Principales
 
 - **Scraping Multi-Librería**: Compatible con las principales plataformas (Casa del Libro, Fnac, Amazon)
 - **Filtrado Inteligente**: Sistema avanzado de palabras clave para identificar contenido relevante
@@ -20,7 +20,7 @@ Urbanismo Literature Scraper es una herramienta profesional de web scraping dise
 - **Logging Completo**: Registro detallado de todas las operaciones y tiempos
 - **Exportación Flexible**: Salida en formato CSV con resumen estadístico
 
-## 📋 Requisitos Previos
+##  Requisitos Previos
 
 ```bash
 Python 3.8 o superior
